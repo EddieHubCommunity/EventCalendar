@@ -1,3 +1,4 @@
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/EddieHubCommunity/EventCalendar)
 # Community event calendar
 
 The goal of this project is to list all our awesome community virtual events like TwitterSpaces, Live Streams in one place so we do not miss any and also do not have clashes!
@@ -36,4 +37,3 @@ Here is an example file...
 5. run `npm run generate` to generate the calendar list data (do not change this file, it will be ignored by git)
 6. run `npm start` to start the server
 7. visit http://localhost:3000
-
