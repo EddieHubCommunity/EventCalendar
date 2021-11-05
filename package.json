@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fullcalendar/core": "^5.10.1",
+    "@fullcalendar/daygrid": "^5.10.1",
+    "@fullcalendar/interaction": "^5.10.1",
+    "@fullcalendar/react": "^5.10.1",
+    "@fullcalendar/timegrid": "^5.10.1",
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "primeflex": "^2.0.0",
     "primeicons": "^5.0.0",
     "primereact": "^7.0.0-rc.2",
     "react": "^17.0.2",
@@ -15,6 +21,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "generate": "node generate.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
