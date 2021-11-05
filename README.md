@@ -68,28 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-<br/>
-<br/>
-
-# Run as Container with Docker 🚀
-Follow the step for run application as container.
- 
-### Step 1 🔥
-
-```
-docker build -t eventcalender:latest .
-```
-<br/>
-
-### Step-2 🔥
-
-RUN command
-
-```
-docker run -it --name eventcalender -p 3001:3000 eventcalender:latest
-```
-
-### Step-3
-
-[http://localhost:3001]([http://localhost:3001)
