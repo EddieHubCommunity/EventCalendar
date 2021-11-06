@@ -38,7 +38,11 @@ function App() {
       </header>
 
       {events.map((event) => (
-        <Card title={event.title} subTitle={event.date.start}>
+        <Card 
+          title={event.title} 
+          subTitle={event.date.start}
+          key={event.description}
+        >
           {event.description}
         </Card>
       ))}
