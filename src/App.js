@@ -37,11 +37,11 @@ function App() {
         <h1>Community event calendar</h1>
       </header>
 
-      {events.map((event) => (
+      {events.map((event, index) => (
         <Card 
           title={event.title} 
           subTitle={event.date.start}
-          key={event.description}
+          key={`${index}-${event.description}`}
         >
           {event.description}
         </Card>
