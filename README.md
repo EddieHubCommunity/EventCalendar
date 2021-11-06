@@ -1,7 +1,7 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/EddieHubCommunity/EventCalendar)
 # Community event calendar
 
-The goal of this project is to list all our awesome community virtual events like TwitterSpaces, Live Streams in one place so we do not miss any and also do not have clashes!
+The goal of this project is to list all our awesome community virtual events like TwitterSpaces, Live Streams all in one place so we do not miss any events and also do not have clashes!
 
 ![screenshot](https://user-images.githubusercontent.com/624760/140585091-e114d767-895e-45ba-9a37-58ad4a192374.png)
 
@@ -30,10 +30,10 @@ Here is an example file...
 
 ## QuickStart
 
-1. fork repo
-2. clone your fork
-3. add the original repo as an upstream to your fork with `git remote add origin git@github.com:EddieHubCommunity/EventCalendar.git`
-4. run `npm ci` to install dependencies
-5. run `npm run generate` to generate the calendar list data (do not change this file, it will be ignored by git)
-6. run `npm start` to start the server
-7. visit http://localhost:3000
+1. Fork this repo
+2. Clone your fork
+3. Add the original repo as an upstream to your fork with `git remote add origin git@github.com:EddieHubCommunity/EventCalendar.git`
+4. Run `npm ci` to install dependencies
+5. Run `npm run generate` to generate the calendar list data (do not change this file, it will be ignored by git)
+6. Run `npm start` to start the server
+7. Visit http://localhost:3000
