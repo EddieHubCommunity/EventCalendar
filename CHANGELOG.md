@@ -1,4 +1,14 @@
-# 0.2.0 (2021-11-07)
+# [0.3.0](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.2.0...v0.3.0) (2021-11-07)
+
+
+### Features
+
+* gh action to deploy ([7f2ca15](https://github.com/EddieHubCommunity/EventCalendar/commit/7f2ca1577e220230933c296ac011af956f033b3c))
+* kubernetes config ([121ad80](https://github.com/EddieHubCommunity/EventCalendar/commit/121ad80ad4bf9428debb92a63640e18729e4fc4a))
+
+
+
+# [0.2.0](https://github.com/EddieHubCommunity/EventCalendar/compare/3252921393b1905c57a5be2c31e33bccaeb2a9bb...v0.2.0) (2021-11-07)
 
 
 ### Features
