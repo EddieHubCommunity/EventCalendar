@@ -19,7 +19,6 @@ function Footer() {
         <span className="p-mr-2">Contribute on</span>
         <a
           href={"https://github.com/EddieHubCommunity/EventCalendar"}
-          target="_blank"
           className="p-mr-2"
           aria-label="LinkFree repository on GitHub"
         >
