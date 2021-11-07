@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.4.1...v0.5.0) (2021-11-07)
+
+
+### Features
+
+* footer with version ([#32](https://github.com/EddieHubCommunity/EventCalendar/issues/32)) ([f071570](https://github.com/EddieHubCommunity/EventCalendar/commit/f071570484664a8692db2a7fc10009e0f10c8d20))
+
+
+
 ## [0.4.1](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.4.0...v0.4.1) (2021-11-07)
 
 
