@@ -11,6 +11,7 @@ import { Menubar } from "primereact/menubar";
 
 import FullCalendar from "@fullcalendar/react";
 import dayGridPlugin from "@fullcalendar/daygrid";
+import Footer from "./Components/Footer";
 
 function App() {
   const colors = {
@@ -119,6 +120,8 @@ function App() {
           />
         )}
       </div>
+
+      <Footer />
     </div>
   );
 }
