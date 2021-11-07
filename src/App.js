@@ -13,6 +13,7 @@ import { Menubar } from "primereact/menubar";
 import { Calendar} from '@fullcalendar/core';
 import { FullCalendar } from "primereact/fullcalendar";
 import dayGridPlugin from "@fullcalendar/daygrid";
+import Footer from "./Components/Footer";
 
 function App() {
 
@@ -126,6 +127,8 @@ function App() {
           />
         )}
       </div>
+
+      <Footer />
     </div>
   );
 }
