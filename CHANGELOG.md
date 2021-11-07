@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.3.0...v0.4.0) (2021-11-07)
+
+
+### Features
+
+* docker file ([0f40ed5](https://github.com/EddieHubCommunity/EventCalendar/commit/0f40ed5e99dd56dbecf6c78da80e34b63693c9b5))
+
+
+
 # [0.3.0](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.2.0...v0.3.0) (2021-11-07)
 
 
