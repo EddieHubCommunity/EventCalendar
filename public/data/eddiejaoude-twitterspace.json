@@ -1,0 +1,12 @@
+{
+  "type": "twitter",
+  "author": {
+    "name": "Eddie Jaoude",
+    "url": "http://twitter.com/eddiejaoude"
+  },
+  "url": "http://twitter.com/eddiejaoude",
+  "title": "Example",
+  "start": "2021-11-04T17:00:00",
+  "end": "2021-11-04T19:00:00",
+  "description": "Geeking out about open source probably"
+}
