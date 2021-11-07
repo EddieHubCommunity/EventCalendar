@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: eddiehub-eventcalendar-deployment
+  labels:
+    app: eddiehub-eventcalendar
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: eddiehub-eventcalendar
+  template:
+    metadata:
+      labels:
+        app: eddiehub-eventcalendar
+    spec:
+      containers:
+        - name: api
+          image: ghcr.io/eddiehubcommunity/eventcalendar:latest
+          ports:
+            - containerPort: 5000
