@@ -1,3 +1,12 @@
+## [0.5.3](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.2...v0.5.3) (2021-11-07)
+
+
+### Bug Fixes
+
+* production port ([fa70d02](https://github.com/EddieHubCommunity/EventCalendar/commit/fa70d02e0ba2f22d80b0e1d50f6d42132330604f))
+
+
+
 ## [0.5.2](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.1...v0.5.2) (2021-11-07)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * app version file ([9cc4503](https://github.com/EddieHubCommunity/EventCalendar/commit/9cc4503d985477f7508c6c899df949db77ce95fd))
-
-
-
-# [0.4.0](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.3.0...v0.4.0) (2021-11-07)
-
-
-### Features
-
-* docker file ([0f40ed5](https://github.com/EddieHubCommunity/EventCalendar/commit/0f40ed5e99dd56dbecf6c78da80e34b63693c9b5))
 
 
 
