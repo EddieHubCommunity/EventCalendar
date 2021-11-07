@@ -1,3 +1,12 @@
+## [0.5.2](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.1...v0.5.2) (2021-11-07)
+
+
+### Bug Fixes
+
+* deployment with prod start ([#32](https://github.com/EddieHubCommunity/EventCalendar/issues/32)) ([76be2e6](https://github.com/EddieHubCommunity/EventCalendar/commit/76be2e6d2e07dc920d0a6743985366cf66ce0145))
+
+
+
 ## [0.5.1](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.0...v0.5.1) (2021-11-07)
 
 
@@ -31,16 +40,6 @@
 ### Features
 
 * docker file ([0f40ed5](https://github.com/EddieHubCommunity/EventCalendar/commit/0f40ed5e99dd56dbecf6c78da80e34b63693c9b5))
-
-
-
-# [0.3.0](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.2.0...v0.3.0) (2021-11-07)
-
-
-### Features
-
-* gh action to deploy ([7f2ca15](https://github.com/EddieHubCommunity/EventCalendar/commit/7f2ca1577e220230933c296ac011af956f033b3c))
-* kubernetes config ([121ad80](https://github.com/EddieHubCommunity/EventCalendar/commit/121ad80ad4bf9428debb92a63640e18729e4fc4a))
 
 
 
