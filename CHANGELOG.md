@@ -1,3 +1,12 @@
+## [0.4.1](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.4.0...v0.4.1) (2021-11-07)
+
+
+### Bug Fixes
+
+* app version file ([9cc4503](https://github.com/EddieHubCommunity/EventCalendar/commit/9cc4503d985477f7508c6c899df949db77ce95fd))
+
+
+
 # [0.4.0](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.3.0...v0.4.0) (2021-11-07)
 
 
