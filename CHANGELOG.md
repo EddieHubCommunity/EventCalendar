@@ -1,3 +1,12 @@
+## [0.5.4](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.3...v0.5.4) (2021-11-07)
+
+
+### Bug Fixes
+
+* title ([#37](https://github.com/EddieHubCommunity/EventCalendar/issues/37)) ([a097ca5](https://github.com/EddieHubCommunity/EventCalendar/commit/a097ca5d9891a31cdd4da1d9a13014f591fb92a0))
+
+
+
 ## [0.5.3](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.2...v0.5.3) (2021-11-07)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * footer with version ([#32](https://github.com/EddieHubCommunity/EventCalendar/issues/32)) ([f071570](https://github.com/EddieHubCommunity/EventCalendar/commit/f071570484664a8692db2a7fc10009e0f10c8d20))
-
-
-
-## [0.4.1](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.4.0...v0.4.1) (2021-11-07)
-
-
-### Bug Fixes
-
-* app version file ([9cc4503](https://github.com/EddieHubCommunity/EventCalendar/commit/9cc4503d985477f7508c6c899df949db77ce95fd))
 
 
 
