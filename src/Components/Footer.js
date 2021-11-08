@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import './Footer.css';
 
 function Footer() {
   const [version, setVersion] = useState("");
