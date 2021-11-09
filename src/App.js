@@ -9,11 +9,19 @@ import { DataView } from "primereact/dataview";
 import { Chip } from "primereact/chip";
 import { Menubar } from "primereact/menubar";
 
-import FullCalendar from "@fullcalendar/react";
+// import FullCalendar from "@fullcalendar/react";
+import { Calendar} from '@fullcalendar/core';
+import { FullCalendar } from "primereact/fullcalendar";
 import dayGridPlugin from "@fullcalendar/daygrid";
 import Footer from "./Components/Footer";
 
 function App() {
+
+  const fullCalendarOptions = {
+    plugins: [ dayGridPlugin ],
+    defaultView: 'dayGridMonth'
+  }
+  
   const colors = {
     twitter: {
       background: "blue",
@@ -114,8 +122,7 @@ function App() {
 
         {display === "calendar" && (
           <FullCalendar
-            plugins={[dayGridPlugin]}
-            initialView="dayGridMonth"
+            options={fullCalendarOptions}
             events={events}
           />
         )}
