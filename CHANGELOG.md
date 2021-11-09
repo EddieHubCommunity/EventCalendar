@@ -1,3 +1,12 @@
+## [0.5.5](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.4...v0.5.5) (2021-11-09)
+
+
+### Bug Fixes
+
+* deprecated version of fullcalendar ([#39](https://github.com/EddieHubCommunity/EventCalendar/issues/39)) ([7fcfe0d](https://github.com/EddieHubCommunity/EventCalendar/commit/7fcfe0d253724fffc61e28810520b6076611aa99))
+
+
+
 ## [0.5.4](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.3...v0.5.4) (2021-11-07)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * footer with version ([#32](https://github.com/EddieHubCommunity/EventCalendar/issues/32)) ([34620dd](https://github.com/EddieHubCommunity/EventCalendar/commit/34620dd0da2839d5251a940dc60ff4806af513a7))
-
-
-
-# [0.5.0](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.4.1...v0.5.0) (2021-11-07)
-
-
-### Features
-
-* footer with version ([#32](https://github.com/EddieHubCommunity/EventCalendar/issues/32)) ([f071570](https://github.com/EddieHubCommunity/EventCalendar/commit/f071570484664a8692db2a7fc10009e0f10c8d20))
 
 
 
