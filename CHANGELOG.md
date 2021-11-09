@@ -1,3 +1,12 @@
+## [0.5.6](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.5...v0.5.6) (2021-11-09)
+
+
+### Bug Fixes
+
+* lint issue ([875a7e0](https://github.com/EddieHubCommunity/EventCalendar/commit/875a7e00ab1b43f61532eaa1c8853287eda76eff))
+
+
+
 ## [0.5.5](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.4...v0.5.5) (2021-11-09)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * deployment with prod start ([#32](https://github.com/EddieHubCommunity/EventCalendar/issues/32)) ([76be2e6](https://github.com/EddieHubCommunity/EventCalendar/commit/76be2e6d2e07dc920d0a6743985366cf66ce0145))
-
-
-
-## [0.5.1](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.0...v0.5.1) (2021-11-07)
-
-
-### Bug Fixes
-
-* footer with version ([#32](https://github.com/EddieHubCommunity/EventCalendar/issues/32)) ([34620dd](https://github.com/EddieHubCommunity/EventCalendar/commit/34620dd0da2839d5251a940dc60ff4806af513a7))
 
 
 
