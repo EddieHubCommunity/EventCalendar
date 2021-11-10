@@ -16,7 +16,7 @@ function Footer() {
   return (
     <footer className="p-d-flex p-jc-center p-ai-center">
       <p>
-        <span className="p-mr-2">Contribute on </span>
+        <span className="p-mr-2">Contribute on</span>
         <a
           href={"https://github.com/EddieHubCommunity/EventCalendar"}
           className="p-mr-2"
@@ -24,7 +24,7 @@ function Footer() {
         >
           <i className="pi pi-github" aria-hidden="true"></i>
         </a>
-        <span> v{version}</span>
+        <span>v{version}</span>
       </p>
     </footer>
   );
