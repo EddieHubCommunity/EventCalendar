@@ -96,7 +96,7 @@ function App() {
   };
 
   return (
-    <div>
+    <>
       <header>
         <Menubar
           model={navBar}
@@ -108,7 +108,7 @@ function App() {
         />
       </header>
 
-      <div>
+      <main>
         {display !== "calendar" && (
           <DataView
             value={events.filter((item) => new Date(item.start) > new Date())}
@@ -122,10 +122,10 @@ function App() {
         {display === "calendar" && (
           <FullCalendar options={fullCalendarOptions} events={events} />
         )}
-      </div>
+      </main>
 
       <Footer />
-    </div>
+    </>
   );
 }
 
