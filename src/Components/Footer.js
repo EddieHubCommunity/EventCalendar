@@ -20,7 +20,7 @@ function Footer() {
         <a
           href={"https://github.com/EddieHubCommunity/EventCalendar"}
           className="p-mr-2"
-          aria-label="EventCalendar repository on GitHub"
+          aria-label="EddieHubCommunity EventCalendar repository on GitHub"
         >
           <i className="pi pi-github" aria-hidden="true"></i>
         </a>
