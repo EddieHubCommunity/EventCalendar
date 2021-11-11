@@ -1,3 +1,12 @@
+## [0.5.8](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.7...v0.5.8) (2021-11-11)
+
+
+### Bug Fixes
+
+* footer aria label ([#59](https://github.com/EddieHubCommunity/EventCalendar/issues/59)) ([c805752](https://github.com/EddieHubCommunity/EventCalendar/commit/c805752e032e921bacea10c17d7cb1e2ea596ae7))
+
+
+
 ## [0.5.7](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.6...v0.5.7) (2021-11-11)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * title ([#37](https://github.com/EddieHubCommunity/EventCalendar/issues/37)) ([a097ca5](https://github.com/EddieHubCommunity/EventCalendar/commit/a097ca5d9891a31cdd4da1d9a13014f591fb92a0))
-
-
-
-## [0.5.3](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.2...v0.5.3) (2021-11-07)
-
-
-### Bug Fixes
-
-* production port ([fa70d02](https://github.com/EddieHubCommunity/EventCalendar/commit/fa70d02e0ba2f22d80b0e1d50f6d42132330604f))
 
 
 
