@@ -1,3 +1,12 @@
+## [0.5.10](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.9...v0.5.10) (2021-11-11)
+
+
+### Bug Fixes
+
+* lock file ([6a4c5a2](https://github.com/EddieHubCommunity/EventCalendar/commit/6a4c5a202106550c1582b1099ff825593bffcb68))
+
+
+
 ## [0.5.9](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.8...v0.5.9) (2021-11-11)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * lint issue ([875a7e0](https://github.com/EddieHubCommunity/EventCalendar/commit/875a7e00ab1b43f61532eaa1c8853287eda76eff))
-
-
-
-## [0.5.5](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.4...v0.5.5) (2021-11-09)
-
-
-### Bug Fixes
-
-* deprecated version of fullcalendar ([#39](https://github.com/EddieHubCommunity/EventCalendar/issues/39)) ([7fcfe0d](https://github.com/EddieHubCommunity/EventCalendar/commit/7fcfe0d253724fffc61e28810520b6076611aa99))
 
 
 
