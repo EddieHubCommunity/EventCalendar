@@ -5,6 +5,7 @@ import React, { useState, useEffect } from "react";
 import "primereact/resources/themes/saga-blue/theme.css";
 import "primereact/resources/primereact.min.css";
 import "primeicons/primeicons.css";
+import "primeflex/primeflex.css";
 import { DataView } from "primereact/dataview";
 import { Chip } from "primereact/chip";
 import { Menubar } from "primereact/menubar";
@@ -120,7 +121,11 @@ function App() {
         )}
 
         {display === "calendar" && (
-          <FullCalendar options={fullCalendarOptions} events={events} />
+          <FullCalendar
+            className="p-mx-3 p-mt-6 p-mb-3 p-mx-md-6"
+            options={fullCalendarOptions}
+            events={events}
+          />
         )}
       </main>
 
