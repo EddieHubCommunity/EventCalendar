@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import 'primeflex/primeflex.css';
 
 function Footer() {
   const [version, setVersion] = useState("");
