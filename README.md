@@ -37,3 +37,12 @@ Here is an example file...
 5. Run `npm run generate` to generate the calendar list data (do not change this file, it will be ignored by git)
 6. Run `npm start` to start the server
 7. Visit http://localhost:3000
+
+## 💪 Thanks to the all Contributors
+
+Thanks a lot for spending your time in helping LinkFree grow. Thanks a lot! Keep rocking 🍻
+[contributors](https://github.com/EddieHubCommunity/EventCalendar/graphs/contributors)
+
+## 🙏 Support
+
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
