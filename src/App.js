@@ -31,6 +31,10 @@ function App() {
       background: "red",
       color: "white",
     },
+    discord: {
+      background: "#5865F2",
+      color: "white",
+    },
   };
 
   const [display, setDisplay] = useState("calendar");

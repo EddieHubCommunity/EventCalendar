@@ -11,7 +11,8 @@ To add your virtual event to the calendar, please create a `json` file in the `p
 
 Here is an example file...
 
-**TYPES** currently supports `youtube` and `twitter`
+**TYPES** currently supports `youtube`, `twitter`, `discord`.
+**TIMEZONES** make sure you add the timezone to the `start` and `end` fields., then the browser will adjust the time to the timezone of the event.
 
 ```json
 {
@@ -22,8 +23,8 @@ Here is an example file...
   },
   "url": "http://twitter.com/eddiejaoude",
   "title": "Awesome LIVE stream on stuff",
-  "start": "2021-11-06T17:00:00",
-  "end": "2021-11-06T19:00:00",
+  "start": "2021-11-20T15:00:00+00:00",
+  "end": "2021-11-20T16:00:00+00:00",
   "description": "We will use ReactJS to build a community calendar for all our virtual geek out sessions"
 }
 ```
