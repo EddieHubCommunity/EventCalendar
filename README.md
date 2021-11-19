@@ -40,7 +40,7 @@ Here is an example file...
 
 ## 💪 Thanks to the all Contributors
 
-Thanks a lot for spending your time in helping LinkFree grow. Thanks a lot! Keep rocking 🍻
+Thanks a lot for spending your time helping EventCalender grow. Thanks a lot! Keep rocking 🍻
 [contributors](https://github.com/EddieHubCommunity/EventCalendar/graphs/contributors)
 
 ## 🙏 Support
