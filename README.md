@@ -42,7 +42,3 @@ Here is an example file...
 
 Thanks a lot for spending your time helping EventCalender grow. Thanks a lot! Keep rocking 🍻
 [contributors](https://github.com/EddieHubCommunity/EventCalendar/graphs/contributors)
-
-## 🙏 Support
-
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
