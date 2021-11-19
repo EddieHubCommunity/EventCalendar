@@ -1,3 +1,13 @@
+## [0.6.1](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.6.0...v0.6.1) (2021-11-19)
+
+
+### Bug Fixes
+
+* discord event for EddieHub ([e0421f0](https://github.com/EddieHubCommunity/EventCalendar/commit/e0421f015d7e6ef75242b45630e9dcccc15b5b67))
+* renamed event files ([7dab941](https://github.com/EddieHubCommunity/EventCalendar/commit/7dab9414e306b87f56a9782decb30205f5b9ddf0))
+
+
+
 # [0.6.0](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.11...v0.6.0) (2021-11-14)
 
 
@@ -31,15 +41,6 @@
 ### Bug Fixes
 
 * main tag ([#60](https://github.com/EddieHubCommunity/EventCalendar/issues/60)) ([0aba39c](https://github.com/EddieHubCommunity/EventCalendar/commit/0aba39c1d15334a76ca717d6887b2ab244026a16))
-
-
-
-## [0.5.8](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.7...v0.5.8) (2021-11-11)
-
-
-### Bug Fixes
-
-* footer aria label ([#59](https://github.com/EddieHubCommunity/EventCalendar/issues/59)) ([c805752](https://github.com/EddieHubCommunity/EventCalendar/commit/c805752e032e921bacea10c17d7cb1e2ea596ae7))
 
 
 
