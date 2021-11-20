@@ -1,3 +1,12 @@
+## [0.7.2](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.1...v0.7.2) (2021-11-20)
+
+
+### Bug Fixes
+
+* **event:** EddieHub public speaking ([#75](https://github.com/EddieHubCommunity/EventCalendar/issues/75)) ([2e77902](https://github.com/EddieHubCommunity/EventCalendar/commit/2e779020d07e604e700897c206354d239829fe0a))
+
+
+
 ## [0.7.1](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.0...v0.7.1) (2021-11-20)
 
 
@@ -32,15 +41,6 @@
 ### Features
 
 * basic issue forms ([#51](https://github.com/EddieHubCommunity/EventCalendar/issues/51)) ([ddeae0c](https://github.com/EddieHubCommunity/EventCalendar/commit/ddeae0c65f5234fa6a8e56b71378c671d399f6f9))
-
-
-
-## [0.5.11](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.10...v0.5.11) (2021-11-12)
-
-
-### Bug Fixes
-
-* margin to calendar ([#63](https://github.com/EddieHubCommunity/EventCalendar/issues/63)) ([7007cdb](https://github.com/EddieHubCommunity/EventCalendar/commit/7007cdba8eba2ecc798f45bfdf6a9fbabf6eaf51))
 
 
 
