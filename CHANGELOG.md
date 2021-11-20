@@ -1,3 +1,12 @@
+## [0.7.1](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.0...v0.7.1) (2021-11-20)
+
+
+### Bug Fixes
+
+* list layout ([9ed22e3](https://github.com/EddieHubCommunity/EventCalendar/commit/9ed22e33424de630be99700b88dc9c3373dcffc4))
+
+
+
 # [0.7.0](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.6.1...v0.7.0) (2021-11-20)
 
 
@@ -32,15 +41,6 @@
 ### Bug Fixes
 
 * margin to calendar ([#63](https://github.com/EddieHubCommunity/EventCalendar/issues/63)) ([7007cdb](https://github.com/EddieHubCommunity/EventCalendar/commit/7007cdba8eba2ecc798f45bfdf6a9fbabf6eaf51))
-
-
-
-## [0.5.10](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.9...v0.5.10) (2021-11-11)
-
-
-### Bug Fixes
-
-* lock file ([6a4c5a2](https://github.com/EddieHubCommunity/EventCalendar/commit/6a4c5a202106550c1582b1099ff825593bffcb68))
 
 
 
