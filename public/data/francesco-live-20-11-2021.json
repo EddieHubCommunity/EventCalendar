@@ -1,5 +1,6 @@
 {
-  "type": "youtube",
+  "platform": "youtube",
+  "type": "live",
   "author": {
     "name": "Francesco Ciulla",
     "url": "http://twitter.com/FrancescoCiull4"
@@ -8,5 +9,5 @@
   "title": "4C Website - Let's code it",
   "start": "2021-11-20T15:00:00+08:00",
   "end": "2021-11-20T16:00:00+08:00",
-  "description": "4C Website - Let's code it. The second episode of me coding the 4C Website live"
+  "description": "The second episode of me coding the 4C Website live"
 }

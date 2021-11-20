@@ -74,25 +74,43 @@ function App() {
 
   const renderListItem = (data) => {
     return (
-      <>
-        <div
-          className="p-dataview-header"
-          onClick={() => (window.location = data.url)}
-        >
-          <Chip
-            label={data.title}
-            icon={`pi pi-${data.type}`}
+      <div className="list-item">
+        <div className="image-container">
+          <i
+            className={`pi pi-${data.platform} list-category-icon p-p-2 p-shadow-9 pointer`}
             style={{
-              background: colors[data.type].background,
-              color: colors[data.type].color,
+              fontSize: "5em",
+              background: colors[data.platform].background,
+              color: colors[data.platform].color,
             }}
-          />
+            onClick={() => (window.location = data.url)}
+          ></i>
         </div>
-        <div>
-          <p>{data.description}</p>
+        <div className="list-detail">
+          <h5
+            className="p-mb-2 pointer"
+            onClick={() => (window.location = data.url)}
+          >
+            {data.title}
+          </h5>
+          <span className="list-category">{data.description}</span>
         </div>
-        <div className="p-dataview-footer">Added by {data.author.name}</div>
-      </>
+        <div className="list-action">
+          <span>{new Date(data.start).toDateString()}</span>
+          <span>{new Date(data.start).toTimeString()}</span>
+          <span>
+            <i className="pi pi-tag list-category-icon"></i>
+            <span
+              className="list-category"
+              style={{
+                color: colors[data.platform].background,
+              }}
+            >
+              {data.type}
+            </span>
+          </span>
+        </div>
+      </div>
     );
   };
 
