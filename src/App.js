@@ -7,7 +7,6 @@ import "primereact/resources/primereact.min.css";
 import "primeicons/primeicons.css";
 import "primeflex/primeflex.css";
 import { DataView } from "primereact/dataview";
-import { Chip } from "primereact/chip";
 import { Menubar } from "primereact/menubar";
 
 // eslint-disable-next-line
