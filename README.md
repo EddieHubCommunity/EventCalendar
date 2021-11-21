@@ -38,3 +38,7 @@ Here is an example file...
 5. Run `npm run generate` to generate the calendar list data (do not change this file, it will be ignored by git)
 6. Run `npm start` to start the server
 7. Visit http://localhost:3000
+
+## 🛡️ License
+
+This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
