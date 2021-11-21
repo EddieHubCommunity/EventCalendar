@@ -10,7 +10,7 @@
 
 <!-- Here comes all the changes proposed through this PR -->
 
-<!-- Check all the boxes which are applicable to check the box correct follow the following conventions -->
+<!-- To check a box replace `[ ]` to `[x]` -->
 <!--
 [x] - Correct
 [X] - Correct
@@ -27,7 +27,7 @@
 
 ## Screenshots
 
-<!-- Add all the screenshots which support your changes -->
+<!-- Add screenshots which support your changes -->
 
 ## Note to reviewers
 
