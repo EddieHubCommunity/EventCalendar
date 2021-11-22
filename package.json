@@ -1,6 +1,6 @@
 {
   "name": "event-calendar",
-  "version": "0.6.0",
+  "version": "0.7.2",
   "private": true,
   "dependencies": {
     "@fullcalendar/core": "^5.10.1",
