@@ -45,5 +45,5 @@ This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) fi
 
 ## 💪 Thanks to the all Contributors
 
-Thanks a lot for spending your time helping EventCalender grow. Thanks a lot! Keep rocking 🍻
+Thanks a lot for spending your time helping EventCalendar grow. Thanks a lot! Keep rocking 🍻
 [contributors](https://github.com/EddieHubCommunity/EventCalendar/graphs/contributors)
