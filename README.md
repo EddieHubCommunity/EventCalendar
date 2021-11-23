@@ -42,3 +42,9 @@ Here is an example file...
 ## 🛡️ License
 
 This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
+
+## 💪 Thanks to the all Contributors
+
+Thanks a lot for spending your time helping EventCalendar grow. Thanks a lot! Keep rocking 🍻
+
+[![Contributors](https://contrib.rocks/image?repo=EddieHubCommunity/EventCalendar)](https://github.com/EddieHubCommunity/LinkFree/graphs/contributors)
