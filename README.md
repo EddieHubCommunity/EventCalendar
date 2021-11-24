@@ -39,6 +39,12 @@ Here is an example file...
 6. Run `npm start` to start the server
 7. Visit http://localhost:3000
 
+## 👨‍💻 Contributing
+
+- Contributions are what makes the open source community such an amazing place to learn, inspire, and create.
+- Any contributions you make are **greatly appreciated**.
+- Check out our [contribution guidelines](https://github.com/EddieHubCommunity/EventCalendar/blob/main/CONTRIBUTING.md) for more information.
+
 ## 🛡️ License
 
 This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
