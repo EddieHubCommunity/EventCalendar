@@ -8,7 +8,7 @@
 
 ## Changes proposed
 
-<!-- Here comes all the changes proposed through this PR -->
+<!-- List all the proposed changes -->
 
 <!-- To check a box replace `[ ]` to `[x]` -->
 <!--
