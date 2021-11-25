@@ -1,3 +1,12 @@
+## [0.7.3](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.2...v0.7.3) (2021-11-25)
+
+
+### Bug Fixes
+
+* updated the link of contributors in `readme.md` ([#78](https://github.com/EddieHubCommunity/EventCalendar/issues/78)) ([#80](https://github.com/EddieHubCommunity/EventCalendar/issues/80)) ([7ed9922](https://github.com/EddieHubCommunity/EventCalendar/commit/7ed9922b4dbb5f5c0a559f4f25aa3b412f436196))
+
+
+
 ## [0.7.2](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.1...v0.7.2) (2021-11-20)
 
 
@@ -32,15 +41,6 @@
 
 * discord event for EddieHub ([e0421f0](https://github.com/EddieHubCommunity/EventCalendar/commit/e0421f015d7e6ef75242b45630e9dcccc15b5b67))
 * renamed event files ([7dab941](https://github.com/EddieHubCommunity/EventCalendar/commit/7dab9414e306b87f56a9782decb30205f5b9ddf0))
-
-
-
-# [0.6.0](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.11...v0.6.0) (2021-11-14)
-
-
-### Features
-
-* basic issue forms ([#51](https://github.com/EddieHubCommunity/EventCalendar/issues/51)) ([ddeae0c](https://github.com/EddieHubCommunity/EventCalendar/commit/ddeae0c65f5234fa6a8e56b71378c671d399f6f9))
 
 
 
