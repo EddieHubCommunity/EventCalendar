@@ -1,39 +1,39 @@
-import "./App.css";
+import './App.css';
 
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect } from 'react';
 
-import "primereact/resources/themes/saga-blue/theme.css";
-import "primereact/resources/primereact.min.css";
-import "primeicons/primeicons.css";
-import "primeflex/primeflex.css";
-import { DataView } from "primereact/dataview";
-import { Chip } from "primereact/chip";
-import { Menubar } from "primereact/menubar";
+import 'primereact/resources/themes/saga-blue/theme.css';
+import 'primereact/resources/primereact.min.css';
+import 'primeicons/primeicons.css';
+import 'primeflex/primeflex.css';
+import { DataView } from 'primereact/dataview';
+import { Chip } from 'primereact/chip';
+import { Menubar } from 'primereact/menubar';
 
 // eslint-disable-next-line
-import { Calendar } from "@fullcalendar/core";
-import { FullCalendar } from "primereact/fullcalendar";
-import dayGridPlugin from "@fullcalendar/daygrid";
-import Footer from "./Components/Footer";
+import { Calendar } from '@fullcalendar/core';
+import { FullCalendar } from 'primereact/fullcalendar';
+import dayGridPlugin from '@fullcalendar/daygrid';
+import Footer from './Components/Footer';
 
 function App() {
   const fullCalendarOptions = {
     plugins: [dayGridPlugin],
-    defaultView: "dayGridMonth",
+    defaultView: 'dayGridMonth',
   };
 
   const colors = {
     twitter: {
-      background: "blue",
-      color: "white",
+      background: 'blue',
+      color: 'white',
     },
     youtube: {
-      background: "red",
-      color: "white",
+      background: 'red',
+      color: 'white',
     },
   };
 
-  const [display, setDisplay] = useState("calendar");
+  const [display, setDisplay] = useState('calendar');
   const [events, setEvents] = useState([]);
   const navBar = [
     // {
@@ -44,23 +44,23 @@ function App() {
     //   },
     // },
     {
-      label: "Calendar",
-      icon: "pi pi-fw pi-calendar",
+      label: 'Calendar',
+      icon: 'pi pi-fw pi-calendar',
       command: () => {
-        setDisplay("calendar");
+        setDisplay('calendar');
       },
     },
     {
-      label: "List",
-      icon: "pi pi-fw pi-list",
+      label: 'List',
+      icon: 'pi pi-fw pi-list',
       command: () => {
-        setDisplay("list");
+        setDisplay('list');
       },
     },
   ];
 
   useEffect(() => {
-    fetch("/events.json")
+    fetch('/events.json')
       .then((response) => response.json())
       .then((data) =>
         data.sort((a, b) => new Date(a.start) - new Date(b.start))
@@ -103,24 +103,24 @@ function App() {
           model={navBar}
           end={
             <a href="https://github.com/EddieHubCommunity/EventCalendar">
-              <i className="pi pi-github" style={{ fontSize: "2em" }}></i>
+              <i className="pi pi-github" style={{ fontSize: '2em' }}></i>
             </a>
           }
         />
       </header>
 
       <main>
-        {display !== "calendar" && (
+        {display !== 'calendar' && (
           <DataView
             value={events.filter((item) => new Date(item.start) > new Date())}
             layout={display}
-            itemTemplate={display === "list" ? renderListItem : renderGridItem}
+            itemTemplate={display === 'list' ? renderListItem : renderGridItem}
             paginator
             rows={10}
           />
         )}
 
-        {display === "calendar" && (
+        {display === 'calendar' && (
           <FullCalendar
             className="p-mx-3 p-mt-6 p-mb-3 p-mx-md-6"
             options={fullCalendarOptions}
