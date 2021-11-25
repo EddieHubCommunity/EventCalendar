@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) fi
 
 Thanks a lot for spending your time helping EventCalendar grow. Thanks a lot! Keep rocking 🍻
 
-[![Contributors](https://contrib.rocks/image?repo=EddieHubCommunity/EventCalendar)](https://github.com/EddieHubCommunity/LinkFree/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=EddieHubCommunity/EventCalendar)](https://github.com/EddieHubCommunity/EventCalendar/graphs/contributors)
