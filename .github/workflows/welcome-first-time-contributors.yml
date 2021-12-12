@@ -2,32 +2,18 @@ name: Welcome first time contributors
 
 on:
   pull_request_target:
-    types:
-      - opened
+    types: [ opened ]
   issues:
-    types:
-      - opened
+    types: [ opened ]
 
 jobs:
   welcome:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/first-interaction@v1
-        with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          
-          issue-message: |
-            Hello there ${{ github.actor }}! 👋
-
-            Thank you and congratulations 🎉 for opening your very first issue in this project! 💖
-
-            In case you want to claim this issue, please comment down below! We will try to get back to you as soon as we can. 👀
-
-            For more open ended discussions and/or specific questions, please visit the [Discussions page](https://github.com/EddieHubCommunity/EventCalendar/discussions). 💖
-
-          pr-message: |
-            Hello there ${{ github.actor }}! 👋
-
-            Thank you and congrats 🎉 for opening your first PR on this project! ✨ 💖
-
-            We will try to review it soon!
+        - uses: actions/checkout@v1
+        - uses: EddieHubCommunity/gh-action-community/src/welcome@main
+          with:
+            github-token: ${{ secrets.GITHUB_TOKEN }}
+            issue-message: '<h1>It''s great having you contribute to this project</h1> Welcome to the community :nerd_face: :rocket:'        
+            pr-message: '<h1>It''s great having you contribute to this project</h1> Welcome to the community :nerd_face:'
+            footer: 'If you would like to continue contributing to open source and would like to do it with an awesome inclusive community, you should join our <a href="http://discord.eddiehub.org">Discord</a> chat and our <a href="http://github.eddiehub.org">GitHub Organisation</a> - we help and encourage each other to contribute to open source little and often 🤓 . Any questions let us know.'
