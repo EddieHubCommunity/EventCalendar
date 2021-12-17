@@ -1,3 +1,12 @@
+## [0.7.5](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.4...v0.7.5) (2021-12-17)
+
+
+### Bug Fixes
+
+* eddiejaoude live stream ([9ae7131](https://github.com/EddieHubCommunity/EventCalendar/commit/9ae7131977d1e27c1d11a0b2f586c796f697080d))
+
+
+
 ## [0.7.4](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.3...v0.7.4) (2021-11-27)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * list layout ([9ed22e3](https://github.com/EddieHubCommunity/EventCalendar/commit/9ed22e33424de630be99700b88dc9c3373dcffc4))
-
-
-
-# [0.7.0](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.6.1...v0.7.0) (2021-11-20)
-
-
-### Features
-
-* list layout ([9f2a490](https://github.com/EddieHubCommunity/EventCalendar/commit/9f2a49038eeb1738676c1bc58079e65dd9dcaf1e))
 
 
 
