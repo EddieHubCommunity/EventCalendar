@@ -1,0 +1,13 @@
+{
+    "type": "youtube",
+    "author": {
+      "name": "Eddie Jaoude",
+      "url": "http://eddiejaoude.io"
+    },
+    "url": "https://www.youtube.com/watch?v=KU3aLQ_3ok0",
+    "title": "Refactoring Markdown to Fullstack NextJS app using Gitpod",
+    "start": "2021-12-17T16:00:00+00:00",
+    "end": "2021-12-17T18:00:00+00:00",
+    "description": "Refactoring Markdown to Fullstack NextJS app using Gitpod"
+  }
+  
