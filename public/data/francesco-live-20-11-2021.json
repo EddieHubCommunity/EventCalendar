@@ -1,6 +1,5 @@
 {
-  "platform": "youtube",
-  "type": "live",
+  "type": "youtube",
   "author": {
     "name": "Francesco Ciulla",
     "url": "http://twitter.com/FrancescoCiull4"
