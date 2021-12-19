@@ -1,3 +1,12 @@
+## [0.7.6](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.5...v0.7.6) (2021-12-19)
+
+
+### Bug Fixes
+
+* docs ([c628b0d](https://github.com/EddieHubCommunity/EventCalendar/commit/c628b0df0113089cf97c3aea2c8dca89fc2c7dca))
+
+
+
 ## [0.7.5](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.4...v0.7.5) (2021-12-17)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * **event:** EddieHub public speaking ([#75](https://github.com/EddieHubCommunity/EventCalendar/issues/75)) ([2e77902](https://github.com/EddieHubCommunity/EventCalendar/commit/2e779020d07e604e700897c206354d239829fe0a))
-
-
-
-## [0.7.1](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.0...v0.7.1) (2021-11-20)
-
-
-### Bug Fixes
-
-* list layout ([9ed22e3](https://github.com/EddieHubCommunity/EventCalendar/commit/9ed22e33424de630be99700b88dc9c3373dcffc4))
 
 
 
