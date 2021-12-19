@@ -14,9 +14,9 @@ Here is an example file...
 **TYPES** currently supports `youtube`, `twitter`, `discord`.
 **TIMEZONES** make sure you add the timezone to the `start` and `end` fields., then the browser will adjust the time to the timezone of the event.
 
-```json
+```ts
 {
-  "type": "youtube",
+  "type": "youtube", // youtube, twitter, discord
   "author": {
     "name": "Eddie Jaoude",
     "url": "http://github.com/eddiejaoude"
@@ -30,6 +30,8 @@ Here is an example file...
 ```
 
 ## QuickStart
+
+You can use the **Gitpod** badge or to do it manually...
 
 1. Fork this repo
 2. Clone your fork
