@@ -1,6 +1,5 @@
 {
-  "platform": "discord",
-  "type": "audio",
+  "type": "discord",
   "author": {
     "name": "Eddie Jaoude",
     "url": "http://twitter.com/eddiejaoude"

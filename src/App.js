@@ -83,11 +83,11 @@ function App() {
       <div className="list-item">
         <div className="image-container">
           <i
-            className={`pi pi-${data.platform} list-category-icon p-p-2 p-shadow-9 pointer`}
+            className={`pi pi-${data.type} list-category-icon p-p-2 p-shadow-9 pointer`}
             style={{
               fontSize: "5em",
-              background: colors[data.platform].background,
-              color: colors[data.platform].color,
+              background: colors[data.type].background,
+              color: colors[data.type].color,
             }}
             onClick={() => (window.location = data.url)}
           ></i>
@@ -109,7 +109,7 @@ function App() {
             <span
               className="list-category"
               style={{
-                color: colors[data.platform].background,
+                color: colors[data.type].background,
               }}
             >
               {data.type}
