@@ -1,45 +1,45 @@
-# [0.6.0](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.11...v0.6.0) (2021-11-14)
-
-
-### Features
-
-* basic issue forms ([#51](https://github.com/EddieHubCommunity/EventCalendar/issues/51)) ([ddeae0c](https://github.com/EddieHubCommunity/EventCalendar/commit/ddeae0c65f5234fa6a8e56b71378c671d399f6f9))
-
-
-
-## [0.5.11](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.10...v0.5.11) (2021-11-12)
+## [0.7.7](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.6...v0.7.7) (2021-12-19)
 
 
 ### Bug Fixes
 
-* margin to calendar ([#63](https://github.com/EddieHubCommunity/EventCalendar/issues/63)) ([7007cdb](https://github.com/EddieHubCommunity/EventCalendar/commit/7007cdba8eba2ecc798f45bfdf6a9fbabf6eaf51))
+* platform/type issue ([53601ea](https://github.com/EddieHubCommunity/EventCalendar/commit/53601eada8cb614bb1e4866ce38e090e503474e0))
 
 
 
-## [0.5.10](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.9...v0.5.10) (2021-11-11)
-
-
-### Bug Fixes
-
-* lock file ([6a4c5a2](https://github.com/EddieHubCommunity/EventCalendar/commit/6a4c5a202106550c1582b1099ff825593bffcb68))
-
-
-
-## [0.5.9](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.8...v0.5.9) (2021-11-11)
+## [0.7.6](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.5...v0.7.6) (2021-12-19)
 
 
 ### Bug Fixes
 
-* main tag ([#60](https://github.com/EddieHubCommunity/EventCalendar/issues/60)) ([0aba39c](https://github.com/EddieHubCommunity/EventCalendar/commit/0aba39c1d15334a76ca717d6887b2ab244026a16))
+* docs ([c628b0d](https://github.com/EddieHubCommunity/EventCalendar/commit/c628b0df0113089cf97c3aea2c8dca89fc2c7dca))
 
 
 
-## [0.5.8](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.5.7...v0.5.8) (2021-11-11)
+## [0.7.5](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.4...v0.7.5) (2021-12-17)
 
 
 ### Bug Fixes
 
-* footer aria label ([#59](https://github.com/EddieHubCommunity/EventCalendar/issues/59)) ([c805752](https://github.com/EddieHubCommunity/EventCalendar/commit/c805752e032e921bacea10c17d7cb1e2ea596ae7))
+* eddiejaoude live stream ([9ae7131](https://github.com/EddieHubCommunity/EventCalendar/commit/9ae7131977d1e27c1d11a0b2f586c796f697080d))
+
+
+
+## [0.7.4](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.3...v0.7.4) (2021-11-27)
+
+
+### Bug Fixes
+
+* **event:** EddieHub community call ([#84](https://github.com/EddieHubCommunity/EventCalendar/issues/84)) ([6c82788](https://github.com/EddieHubCommunity/EventCalendar/commit/6c82788aafa62f89fa9c2909b64399dd5eb999f9))
+
+
+
+## [0.7.3](https://github.com/EddieHubCommunity/EventCalendar/compare/v0.7.2...v0.7.3) (2021-11-25)
+
+
+### Bug Fixes
+
+* updated the link of contributors in `readme.md` ([#78](https://github.com/EddieHubCommunity/EventCalendar/issues/78)) ([#80](https://github.com/EddieHubCommunity/EventCalendar/issues/80)) ([7ed9922](https://github.com/EddieHubCommunity/EventCalendar/commit/7ed9922b4dbb5f5c0a559f4f25aa3b412f436196))
 
 
 
