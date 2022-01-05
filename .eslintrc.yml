@@ -14,5 +14,5 @@ plugins:
   - react
 rules: {
   'space-before-function-paren': ['error', 'never'],
-    'comma-dangle': ['error', 'always-multiline'],
+  'comma-dangle': ['error', 'always-multiline'],
 }
