@@ -33,12 +33,24 @@ Here is an example file...
 
 You can use the **Gitpod** badge or to do it manually...
 
-1. Fork this repo
+1. Fork [**this**](https://github.com/EddieHubCommunity/EventCalendar) repository
+
 2. Clone your fork
-3. Add the original repo as an upstream to your fork with `git remote add origin git@github.com:EddieHubCommunity/EventCalendar.git`
+```bash
+git clone https://github.com/<your-github-username>/EventCalendar
+```
+
+3. Add the original repo as an upstream to your fork with 
+```bash
+git remote add upstream https://github.com/EddieHubCommunity/EventCalendar.git
+```
+
 4. Run `npm ci` to install dependencies
+
 5. Run `npm run generate` to generate the calendar list data (do not change this file, it will be ignored by git)
+
 6. Run `npm start` to start the server
+
 7. Visit http://localhost:3000
 
 ## 👨‍💻 Contributing
