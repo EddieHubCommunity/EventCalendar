@@ -33,7 +33,7 @@ Here is an example file...
 
 You can use the **Gitpod** badge or to do it manually...
 
-1. Fork [**this**](https://github.com/EddieHubCommunity/EventCalendar) repository
+1. Fork this repository
 
 2. Clone your fork
 ```bash
