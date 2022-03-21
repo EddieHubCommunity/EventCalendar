@@ -10,7 +10,6 @@ import { DataView } from "primereact/dataview";
 import { Menubar } from "primereact/menubar";
 
 // eslint-disable-next-line
-import { Calendar } from "@fullcalendar/core";
 import { FullCalendar } from "primereact/fullcalendar";
 import dayGridPlugin from "@fullcalendar/daygrid";
 import Footer from "./Components/Footer";
