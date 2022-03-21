@@ -121,6 +121,7 @@ function App() {
     <>
       <header>
         <Menubar
+          style={{marginBottom: 1.5 + 'em'}}
           model={navBar}
           end={
             <a href="https://github.com/EddieHubCommunity/EventCalendar">
