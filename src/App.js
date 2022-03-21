@@ -13,8 +13,8 @@ import "primereact/resources/themes/saga-blue/theme.css";
 import "primereact/resources/primereact.min.css";
 import "primeicons/primeicons.css";
 import "primeflex/primeflex.css";
-import { DataView } from "primereact/dataview";
-import { Menubar } from "primereact/menubar";
+// import { DataView } from "primereact/dataview";
+// import { Menubar } from "primereact/menubar";
 
 // eslint-disable-next-line
 import { Calendar } from '@fullcalendar/core';
